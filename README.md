@@ -1,2 +1,3 @@
-# python3
-Python3 Projects
+Mail Hunter
+
+Hunt down all emails addresses from given website
